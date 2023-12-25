@@ -149,7 +149,12 @@ int main() {
              printArray(digitArr); 
     } 
     
+//find the first digit which is < one's digit
+218765
+251678 
 
+1234
+1243    
 
 
    
