@@ -1,2 +1,2 @@
-# DSA_Practice
+# IPMP
 1) Arrays
