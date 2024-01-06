@@ -30,6 +30,10 @@ void solve(vector <int> arr)
         cout<<prodArr[i]<<" ";
     }
     cout<<endl;
+    for(int i=0;i<5;i++)
+    {
+        cout<<rand() %10 <<" ";
+    }
     delete [] prodArr;
 }
 
